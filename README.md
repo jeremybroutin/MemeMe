@@ -1,4 +1,4 @@
-# MemeMyFace
+# MemeMe App
 ## Description
 Udacity iOS Developer Nanodegree - 2th project - UIKit Fundamentals<br>
 MemeMe lets you create meme easily by selecting existing images from your gallery or adding new ones from your camera.
