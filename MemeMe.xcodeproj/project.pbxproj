@@ -89,7 +89,7 @@
 				E304EC701C32D88A004650CC /* Meme.swift */,
 				E332A5A91B05FD1700FF2294 /* Variables.swift */,
 			);
-			name = Model;
+			path = Model;
 			sourceTree = "<group>";
 		};
 		E304EC6E1C32D82B004650CC /* View */ = {
@@ -99,7 +99,7 @@
 				E332A5811B03C2DB00FF2294 /* Main.storyboard */,
 				E332A5A11B04E08E00FF2294 /* viewTableCell.xib */,
 			);
-			name = View;
+			path = View;
 			sourceTree = "<group>";
 		};
 		E304EC6F1C32D832004650CC /* Controller */ = {
@@ -113,7 +113,7 @@
 				E386EB2F1B062FF800DA0BA4 /* MemeCollectionViewCell.swift */,
 				E332A5A71B04E67D00FF2294 /* MemeDetailViewController.swift */,
 			);
-			name = Controller;
+			path = Controller;
 			sourceTree = "<group>";
 		};
 		E332A56D1B03C2DB00FF2294 = {
